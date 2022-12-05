@@ -1,10 +1,10 @@
-﻿namespace ConsoleApp2
+﻿namespace github1
 {
 	internal class Program
 	{
 		static void Main(string[] args)
 		{
-			Console.WriteLine("Hello, World!");
+			Console.Write("hello world");
 		}
 	}
 }
